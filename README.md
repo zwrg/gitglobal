@@ -30,11 +30,11 @@
  **List of available commands -  command_from_list**
 
 -   `push` as `git push`
--   `pull` as `git push`
--   `add` as `git push`
--   `commit` as `git push`
--   `status` as `git push`
--   `show` as `git push`
+-   `pull` as `git pull`
+-   `add` as `git add`
+-   `commit` as `git commit`
+-   `status` as `git status`
+-   `show` as `git show`
 
 # Additional information
 
