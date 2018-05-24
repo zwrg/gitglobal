@@ -5,7 +5,7 @@ To show more info use: \'$sript_name help\'"
 if [ $# -eq 0 ];then
   echo "$text"
 elif [ $1 == "help" ];then
-  text="on all git repo sub_dir of given directory"
+	text="on all git repo sub_dir of given directory"
   echo "Help for script $script_name
  $script_name allows us to controll repositories in git system
 
